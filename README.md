@@ -30,7 +30,7 @@ Este projeto foi desenvolvido como parte do curso "**Javascript**: criando requi
 
 ## Tecnologias utilizadas no projeto
 
-* **HTML**: Servidor de API fake utilizado para simular operações de CRUD.
+* **HTML**: Estrutura da página web.
 * **CSS**: Estilos e layout da aplicação.
 
 
